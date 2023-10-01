@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Маслинов 22ПТ2
 ==================================
